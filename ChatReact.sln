@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatReact.Server", "ChatReact.Server\ChatReact.Server.csproj", "{EBA81EAA-9362-40F7-84BC-FE2EC8583E58}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "chatreact.client", "chatreact.client\chatreact.client.esproj", "{2DED1EDA-31CE-4690-9931-652A547F4294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA81EAA-9362-40F7-84BC-FE2EC8583E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA81EAA-9362-40F7-84BC-FE2EC8583E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA81EAA-9362-40F7-84BC-FE2EC8583E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA81EAA-9362-40F7-84BC-FE2EC8583E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DED1EDA-31CE-4690-9931-652A547F4294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DED1EDA-31CE-4690-9931-652A547F4294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DED1EDA-31CE-4690-9931-652A547F4294}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2DED1EDA-31CE-4690-9931-652A547F4294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DED1EDA-31CE-4690-9931-652A547F4294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DED1EDA-31CE-4690-9931-652A547F4294}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17824A49-97DB-418D-ACAE-ADA427EBBE25}
+	EndGlobalSection
+EndGlobal
